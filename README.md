@@ -31,14 +31,14 @@
 ### <div align="center">📊 GitHub Stats</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PGSyntax&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PGSyntax&layout=compact&theme=radical&hide_border=true" height="180" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0x70776c&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x70776c&layout=compact&theme=radical&hide_border=true" height="180" alt="langs" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PGSyntax&theme=radical&hide_border=true" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x70776c&theme=radical&hide_border=true" alt="streak" />
 </div>
 
 ---
