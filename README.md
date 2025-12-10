@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hey there, I'm 0x70776c</h1>
+  <h1>👋 Hey there</h1>
 </div>
 
 ---
