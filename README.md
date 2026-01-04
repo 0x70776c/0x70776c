@@ -1,6 +1,8 @@
-<div align="center">
-  <h1>👋 Hey there</h1>
-</div>
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=36&pause=2000&color=58a6ff&center=true&vCenter=true&random=false&width=420&lines=Welcome+to+My+Profile" alt="Welcome to My Profile" />
+  </a>
+</h1>
 
 ---
 
