@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="25"/>
   &nbsp; | &nbsp;
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Windows_11-0078D6?style=flat-square&logo=windows11&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=apple&logoColor=white" height="25"/>
 </div>
